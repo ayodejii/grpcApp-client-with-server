@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcGreeter", "GrpcGreeter\GrpcGreeter.csproj", "{A982B30E-1011-4246-A695-C568C3D89197}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcGreetAPI", "GrpcGreetAPI\GrpcGreetAPI.csproj", "{222FF1B2-3A20-45DA-97E6-82C484FCBAB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A982B30E-1011-4246-A695-C568C3D89197}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A982B30E-1011-4246-A695-C568C3D89197}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A982B30E-1011-4246-A695-C568C3D89197}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A982B30E-1011-4246-A695-C568C3D89197}.Release|Any CPU.Build.0 = Release|Any CPU
+		{222FF1B2-3A20-45DA-97E6-82C484FCBAB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{222FF1B2-3A20-45DA-97E6-82C484FCBAB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{222FF1B2-3A20-45DA-97E6-82C484FCBAB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{222FF1B2-3A20-45DA-97E6-82C484FCBAB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDE613A1-247C-44ED-AB14-EB1E2E2F872D}
+	EndGlobalSection
+EndGlobal
